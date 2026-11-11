@@ -19,45 +19,31 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 2. Windows Fundamentals
 3. Networking
 4. Basics Rooms
-5. Scripting
-6. Web Security
-7. Windows Security
-8. Privilege Escalation
-9. Active Directory
-10. Malware Analysis
-11. PCAP Analysis
-12. Miscellaneous and specialist topics
+5. Web Security
+6. Windows Security
+7. Privilege Escalation
+8. Active Directory
+9. Malware Analysis
 
 ---
-
-
 
 
 ## Linux Fundamentals
 
 [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-
 [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
-
 [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-
 [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-
 [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
 
-
-
 [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-
 [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-
 [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 
 ## Basics Rooms
-
 
 [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
@@ -67,43 +53,12 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
-[TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
-
 [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-[TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
-
-[TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
-
-
-
-## Scripting
-
-
-
-[TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
-
-[TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
-
-[TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
-
-[TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
-
-[TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
-
-[TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
-
-[TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-
-[TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
-
-
 
 ## Networking
-
-
 
 [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
@@ -117,16 +72,9 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-[TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
-
-
-
-
 
 
 ## Web
-
-
 
 [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
@@ -185,9 +133,6 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 
 ## Malware Analysis
-
-
-
 [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
 [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
@@ -204,9 +149,6 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 
 ## PrivEsc
-
-
-
 [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
 
 [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
@@ -236,8 +178,6 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 ## Windows
 
-
-
 [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
 [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
@@ -254,8 +194,6 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 ## Active Directory
 
-
-
 [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
 [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
@@ -266,95 +204,6 @@ A structured collection of TryHackMe rooms covering Linux, Windows, networking, 
 
 [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
-
-## PCAP Analysis
-
-
-
-[TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
-
-[TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
-
-[TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
-
-[TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
-
-
-
-
-## Misc
-
-
-
-[TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
-
-[TryHackMe | Git Happens](https://tryhackme.com/room/githappens)
-
-[TryHackMe | Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
-
-[TryHackMe | Splunk](https://tryhackme.com/room/bpsplunk)
-
-[TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
-
-[TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
-
-[TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
-
-[TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
-
-[TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
-
-[TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
-
-[TryHackMe | Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
-
-[TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
-
-[TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
-
-[TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
-
-[TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
-
-[TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
-
-[TryHackMe | MITRE](https://tryhackme.com/room/mitre)
-
-[TryHackMe | magician](https://tryhackme.com/room/magician)
-
-[TryHackMe | JPGChat](https://tryhackme.com/room/jpgchat)
-
-[TryHackMe | Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
-
-[TryHackMe | CVE-2021-41773/42013](https://tryhackme.com/room/cve202141773)
-
-[TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)
-
-[TryHackMe | Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
-
-[TryHackMe | Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
-
-[TryHackMe | Hip Flask](https://tryhackme.com/room/hipflask)
-
-[TryHackMe | Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)
-
-[TryHackMe | Wordpress: CVE-2021-29447](https://tryhackme.com/room/wordpresscve202129447)
-
-[TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
-
-[TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
-
-[TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-
-[TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-
-[TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
-
-[TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
-
-[TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
-
-[TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 
 ## Progress tracker
